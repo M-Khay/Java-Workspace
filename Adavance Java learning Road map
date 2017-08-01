@@ -1,0 +1,54 @@
+1. Collections  - DONE
+2. Vectors - DONE
+3. Generic Programming - Done , Definately worth revisin. And remeber to read the source code of LinkedList or ArrayList. 
+
+    a. What and how to use them.
+    b. Write an interface and include method in it which uses generics, just like Comprator Interface, or List Interface.
+    c. how and when to use::  <? extends  E > vs <? super E>
+
+4. Advance Data Structres. 
+	a. Linked List.
+	b. Trees.
+	c. Stack.
+	d. Graphs.
+
+4.1 Recurssion. 
+
+5.Multithreading programming.
+	a. Threads - Done.
+		Runnable - Done
+		Callables
+		FutureCallable
+	c. Executor
+	d. ExecutorService
+	e. Future<Task>
+	f. FutureTask<V>
+	g. DataStructures used in multiprogramming.
+		I. Volatile - makes sure that any change in this variable is reflected among all thread accessing this varibale especailly in a  multiprocessor enviroment. NOTE: its not a substitute for synchronized().
+		II. Thread Local - Creates a variable whose value exists per thread basis, and is different for different threads.
+		
+		
+5.5 Design Patters
+	- singleton
+	- Bridge
+	- Factory pattern
+	- Adapter Pattern
+
+6. Java8, Hot topics: 
+	a. Lambda Expression.
+
+6.5 Problems ( InterviewCake etc.).	
+7. Divide and conquer - questions from leadcode.
+8. Dynamic programming - questions from leadcode.
+
+
+9. Regular expressions
+10. I/O streams
+
+11.Network programming - Not included in our curent course.
+12. Miscellenious
+ 	a. Transient keyword.
+
+
+
+

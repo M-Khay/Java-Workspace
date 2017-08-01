@@ -1,0 +1,11 @@
+You have a singly-linked list ↴ and want to check if it contains a cycle. 
+
+
+This question  can be solved in o(n) time complexity , thats the best anyone can do, if you can do it better stop coding now and go report that to IEEE or google or anybody huge in the world, you'll be rewarded with billions and then you can do coke for the rest of your life. 
+
+
+Variation 1 : can you improve the code to solve it in still O(n) time complexity but o(1) space complexity. 
+
+Hint : think about linear list vs looping list.  A looping list will continue to run even after n iterations ( If n is the length fof your linked list).
+
+Hows that BIATTTCH...

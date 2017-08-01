@@ -1,0 +1,53 @@
+Relevant experience : 
+
+Whatsgoodly & DriveU - 
+
+Build and design architecture for Android and iOS.
+
+Communicate with backend team and finalize data required, particularly about what api's/endpoint returns what result.
+
+Build functionality on Android.
+
+Review iOs code before approving merge request on git.
+
+
+Define test case, build them on Android 
+	- Junit and Mockito : for unit testing.
+	- Espresso : For UI testing.
+
+Review iOS test case.
+
+
+
+Good Product manager :
+
+ - Focus on consumer requirements first.
+ - sets goals, Identifies strength and works accordingly with the team.
+ - Market awarness and good analysis of how customer are using the product.
+ - Data driven and prioritize task at the same time not letting the right ideas comming up in team meetings slipping into void.
+ - Ownership and Responsible : Enjoys building things and take pride in it. Communicate and keep everyone upto date.
+ - Strong point of view weekly held.
+ 
+
+
+
+
+
+
+ Ideas for Ebay: 
+
+ - Tie up : with organization like uber, lyft.
+ 	It can help to solve the biggest road blocker for ebay, it can possibly help them to deliver products faster to 
+ 	consumer.
+
+ - Express biding system : motivation topHatter.com
+ 	They are bidding and selling material in 90 seconds and if you'd like you can buy stuff not on express bidding for lower price on ebay.
+ 
+ - Building cross platform solutions that are glitches free yet quick to build for both platform.
+
+
+
+AppDiff
+
+
+

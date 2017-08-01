@@ -1,0 +1,86 @@
+Tesla
+// package whatever; // don't place package name!
+
+
+//  Hello world
+// [1,2,4,5,3] - ret 8
+
+Question : find the some of the largest of two numbers in the array 
+
+Variation 1 : those two numbers should not be adjcent to each other. 
+
+
+import java.io.*;
+
+class myCode
+{
+    
+    
+    public static void main (String[] args) throws java.lang.Exception
+    {
+        System.out.println("Hello Java");
+        
+        int[] input = new int[] {1,2,4,5,3};
+        
+        myCode code =  new myCode();
+       int largestSum =  code.getLargestSum(input);
+        System.out.println("Largest Sum is "+ largestSum);
+    }
+    
+    
+    private int getLargestSum(int[] input){
+        
+        if(input.length == 0){
+            return 0;
+        }
+        int largest = input[0] , second =input[0];
+        int indexLargestElement=0, indexSecondLargest= 0;
+        int length = input.length;
+        for(int i=0; i<length;i++){
+            int currentItem = input[i];
+            
+            if(currentItem > largest){
+                if(indexSecondLargest != indexLargestElement+1 || indexSecondLargest != indexLargestElement-1){
+                    second = largest;
+                    indexSecondLargest = indexLargestElement;
+                    
+                }
+                largest = currentItem;
+                
+                indexLargestElement = i;
+                
+                
+                
+            }
+            
+        }
+            
+         int largestSum  = largest + second;
+            
+        return largestSum;
+        }
+    
+    class Node { 
+        
+    int value ;
+    int index; 
+        
+    }
+    
+    }
+
+
+
+
+/* 
+Your last C# code is saved below:
+using System;
+
+public class Test
+{
+    public static void Main()
+    {
+        Console.WriteLine("Hello");
+    }
+}
+ */
